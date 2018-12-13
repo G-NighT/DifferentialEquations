@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.783,C:\Users\guest\Documents\Embarcadero\Studio\Projects\Project1.dproj=Z:\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Учебная работа 4\Differential_Equations.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,C:\Users\guest\Documents\Embarcadero\Studio\Projects\Unit1.dfm=Z:\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Учебная работа 4\Diff_Equations.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,=C:\Users\guest\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,C:\Users\guest\Documents\Embarcadero\Studio\Projects\Unit1.pas=Z:\ИНФОРМАТИКА И ПРОГРАММИРОВАНИЕ\2 СЕМЕСТР\Учебная работа 4\Diff_Equations.pas</Transaction>
+  </Transactions>
+</BorlandProject>
